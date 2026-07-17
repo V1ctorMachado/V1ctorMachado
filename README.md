@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/imvitinho/imvitinho/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/V1ctorMachado/V1ctorMachado/output/snake.svg" alt="Snake animation" />
 
 ###
 
